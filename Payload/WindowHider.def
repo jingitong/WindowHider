@@ -1,0 +1,11 @@
+; WindowHider DLL 模块定义文件
+; 确保导出函数名不被 C++ 名称修饰 (name mangling)
+
+LIBRARY WindowHider
+
+EXPORTS
+    SetWindowVisibility     @1
+    HideAllWindows          @2
+    ShowAllWindows          @3
+    HideFromTaskbar         @4
+
