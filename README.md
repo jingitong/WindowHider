@@ -29,8 +29,8 @@ A Windows DLL library for hiding windows from screen capture, screenshots, and s
 
 ### Output Files
 
-- `x64/Release/WindowHider.dll` - 64-bit version
-- `Release/WindowHider_32bit.dll` - 32-bit version
+- `Build\bin\Release\WindowHider.dll` - 64-bit version
+- `Build\bin\Release\WindowHider_32bit.dll` - 32-bit version
 
 ## API Reference
 

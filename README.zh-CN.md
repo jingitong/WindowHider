@@ -28,8 +28,8 @@ WindowHider 是一个 Windows DLL 库，用于将窗口从屏幕捕获、截图�
 
 ### 输出文件
 
-- `x64/Release/WindowHider.dll` - 64 位版本
-- `Release/WindowHider_32bit.dll` - 32 位版本
+- `Build\bin\Release\WindowHider.dll` - 64 位版本
+- `Build\bin\Release\WindowHider_32bit.dll` - 32 位版本
 
 ## API 参考
 
